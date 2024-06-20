@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 20 08:56:19 GMT 2024","Thu Jun 20 08:56:19 GMT 2024","0","","test_bl","","","","Test 4 is not prime ","This test attempts to test wether 4 is prime or not."
+"passed","Thu Jun 20 08:56:19 GMT 2024","Thu Jun 20 08:56:19 GMT 2024","0","","test_bl","","","","Test 7 is prime ","This test attempts to test wether 4 is prime or not."
+"passed","Thu Jun 20 08:56:19 GMT 2024","Thu Jun 20 08:56:19 GMT 2024","0","","test_bl","","","","Test 5 is prime ","This test attempts to test wether 4 is prime or not."
